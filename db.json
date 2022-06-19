@@ -1,0 +1,35 @@
+{
+  "prestador": [
+    {
+      "id": 1,
+      "nome": "Andre",
+      "sobrenome": "Melani",
+      "cpf": "123.123.123-12",
+      "cep": "12312-123",
+      "estado": "Paraná",
+      "cidade": "Curitiba",
+      "bairro": "Água Verde",
+      "rua": "Avenida Silva Jardim",
+      "numero": "123",
+      "complemento": "Apartamento 123"
+    }
+  ],
+  "contratos": [
+    {
+      "id": 1,
+      "numContrato": "123",
+      "dataRegistro": "25/11/1999",
+      "dataValidade": "30/06/2022",
+      "nome": "Andre",
+      "sobrenome": "Melani",
+      "cpf": "123.123.123-12",
+      "cep": "12312-123",
+      "estado": "Paraná",
+      "cidade": "Curitiba",
+      "bairro": "Água Verde",
+      "rua": "Avenida Silva Jardim",
+      "numero": "123",
+      "complemento": "Apartamento 123"
+    }
+  ]
+}
